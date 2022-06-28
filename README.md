@@ -15,7 +15,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndrewKorn&theme=tokyonight)
 
 ### 🔗 My links:
-
 [![Vkontakte Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=for-the-badge&logo=appveyor&logo=Vkontakte&logoColor=white&color=0028cc)](https://vk.com/nsuboy)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/andrewKorneshchuk)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=critical)](mailto:a.korneshchuk1@g.nsu.ru)
