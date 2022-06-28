@@ -13,6 +13,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewKorn&theme=tokyonight)
 ### 📊 Language stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndrewKorn&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndrewKorn&theme=tokyonight)
 
 ### 🔗 My links:
 [![Vkontakte Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=for-the-badge&logo=appveyor&logo=Vkontakte&logoColor=white&color=0028cc)](https://vk.com/nsuboy)
