@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Andrew <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ### About me:
-✨ I’m 19 years old 
+✨ I’m 20 years old 
 
 🏫 Now I’m a 3rd year student at the Faculty of Information Technology at Novosibirsk State University.
 
