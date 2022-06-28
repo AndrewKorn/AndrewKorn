@@ -1,18 +1,20 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm Andrew <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKorn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### About me:
+🌵 I’m 19 years old 
 
-<!--
-**AndrewKorn/AndrewKorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏫 Now I’m a 3rd year student at the Faculty of Information Technology at Novosibirsk State University.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Java ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My profile stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewKorn&theme=tokyonight)
+### 📊 Language stats:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndrewKorn&theme=tokyonight)
+
+### 🔗 My links:
+
+[![Vkontakte Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=for-the-badge&logo=appveyor&logo=Vkontakte&logoColor=white&color=0028cc)](https://vk.com/nsuboy)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/andrewKorneshchuk)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=critical)](mailto:a.korneshchuk1@g.nsu.ru)
+
