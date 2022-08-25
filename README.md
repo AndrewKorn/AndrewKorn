@@ -7,7 +7,7 @@
 
 📒 GPA: **4.8/5.0**
 
-🌱 I’m currently learning: Java, Go, Docker, Kubernetes
+🌱 I’m currently learning: Java, Go, Docker
 
 ### 📈 My profile stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewKorn&theme=tokyonight)
