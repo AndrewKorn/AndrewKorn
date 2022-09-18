@@ -7,7 +7,9 @@
 
 📒 GPA: **4.8/5.0**
 
-🌱 I’m currently learning: Java, Go, Docker
+🌻 Intern in Sber Labaratory
+
+🌱 I’m currently learning: Go, Docker, Cloud technology
 
 ### 📈 My profile stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewKorn&theme=tokyonight)
