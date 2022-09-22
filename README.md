@@ -9,7 +9,7 @@
 
 🌻 Intern in Sber Labaratory
 
-🌱 I’m currently learning: Go, Docker, Cloud technology
+🌱 I’m currently learning: Go, Docker
 
 ### 📈 My profile stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewKorn&theme=tokyonight)
