@@ -9,7 +9,7 @@
 
 🌻 Intern in Sber Labaratory
 
-🌱 Skills: Go, Java, C/C++, Vue.js
+🌱 Skills: Java, Go, C/C++, Vue.js
 
 ### 📈 My profile stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewKorn&theme=tokyonight)
